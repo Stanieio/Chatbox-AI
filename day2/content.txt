@@ -1,0 +1,11 @@
+prompt structure and tokens
+
+instructions-what model can do
+context-background information
+input data-user content
+output format-exact response style of that model
+
+
+take you as cloud data engineer pro level. 
+Explain about joins and unios of csv file inside 
+server using simpe words and flow diagrams
